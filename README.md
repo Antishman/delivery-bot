@@ -1,6 +1,4 @@
-Sure! Here’s a brief README for your Telegram bot designed for a delivery service:
 
-```markdown
 # Delivery Service Telegram Bot
 
 ## Overview
@@ -9,11 +7,11 @@ This is a Telegram bot designed to facilitate a delivery service. Users can easi
 
 ## Features
 
-- **User Interaction**: Engages users with prompts to collect essential information.
-- **Data Collection**: Gathers name, location, date, and phone number from users.
-- **Data Storage**: Saves user inputs in a CSV file for easy access and management.
-- **Admin Access**: Allows the creator to retrieve all collected data via a secure command.
-- **Informative Description**: Provides users with a brief description of the bot's purpose upon initiation.
+- User Interaction: Engages users with prompts to collect essential information.
+- Data Collection: Gathers name, location, date, and phone number from users.
+- Data Storage: Saves user inputs in a CSV file for easy access and management.
+- Admin Access: Allows the creator to retrieve all collected data via a secure command.
+- Informative Description: Provides users with a brief description of the bot's purpose upon initiation.
 
 ## Getting Started
 
