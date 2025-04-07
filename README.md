@@ -24,7 +24,7 @@ This is a Telegram bot designed to facilitate a delivery service. Users can easi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/delivery-bot.git
+   git clone https://github.com/Antishman/delivery-bot.git
    cd delivery-bot
    ```
 
@@ -58,9 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Thanks to the developers of the `python-telegram-bot` library for making it easy to create and manage Telegram bots.
-```
-
-### Notes
-
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- You can customize any sections as needed to better fit your project's specifics or personal touch.
